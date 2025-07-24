@@ -59,7 +59,7 @@ MONITORED_PORTS = {
 
 Run the script with:
 ```bash
-sudo python3 scapy_watchdog_logged.py
+sudo python3 scapy_wol_watchdog_logged.py
 ```
 
 > Note: `sudo` is required for raw packet sniffing.
